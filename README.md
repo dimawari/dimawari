@@ -1,7 +1,10 @@
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00BFFF&center=true&vCenter=true&width=435&lines=QA+in+Training;Debugger+of+Life;Code+Explorer" alt="Typing SVG" />
+</p>
 
 
 <h1 align="center">Hey there, I’m Eva! 👋</h1>
-<p align="center">📍 Currently debugging life one bug at a time | QA-in-training 🛠️ | Code explorer 🌐</p>
+<p align="center">📍 Currently debugging life one bug at a time | QA-in-training 🛠️</p>
 
 ---
 
@@ -19,8 +22,7 @@
 - Tools: `GitHub` | `VS Code`   
 - Testing Brainpower: `Black Box Testing` | `Manual Testing` | `Bug Reporting`
 - 🌱 I’m currently learning: `Postman` | `JIRA`
--
--   **[e.g., JavaScript, Git, Unit Testing, etc.]**
+
 ---
 
 ## 🛠️ Currently Working On
