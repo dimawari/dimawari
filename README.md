@@ -1,10 +1,10 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00BFFF&center=true&vCenter=true&width=435&lines=QA+in+Training;Debugger+of+Life;Breaking+for+the+Better" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00BFFF&center=true&vCenter=true&width=435&lines=Testing+Enthusiast; QA-+in-+Training;Breaking+for+the+Better" alt="Typing SVG" />
 </p>
 
 
 <h1 align="center">Hey there, I’m Eva! 👋</h1>
-<p align="center">📍 Currently debugging life one bug at a time | QA-in-training 🛠️</p>
+<p align="center">📍 Bulacan </p>
 
 ---
 
