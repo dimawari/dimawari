@@ -1,1 +1,1 @@
-<h2>Hi, I'm Eva, an aspiring QA Engineer with a growing interest in black box testing and functional software validation. I'm currently exploring how real-world software is tested and built, and GitHub is where I document my journey.</h2>
+<h3>Hi, I'm Eva, an aspiring QA Engineer with a growing interest in black box testing and functional software validation. I'm currently exploring how real-world software is tested and built, and GitHub is where I document my journey.</h3>
