@@ -11,7 +11,7 @@
 ## 🤓 Who Am I?
 
 🎓 A curious student of **BS Information Systems**, trying to figure out if semicolons or tabs cause more chaos.  
-🧪 **QA Engineer** asprirant (aka the person who *breaks* your app before the users do).  
+🧪 **QA Engineer** aspirant (aka the person who *breaks* your app before the users do).  
 🕵️‍♀️ Specializing in **black box testing**—because it’s more fun when you don’t know what’s inside, right?
 
 ---
@@ -21,7 +21,7 @@
 - Languages: `HTML` | `CSS` | `JavaScript`  
 - Tools: `GitHub` | `VS Code`   
 - Testing Brainpower: `Black Box Testing` | `Manual Testing` | `Bug Reporting`
-- 🌱 I’m currently learning: `Postman` | `JIRA`
+- I’m currently learning: `Postman` | `JIRA`
 
 ---
 
@@ -38,7 +38,8 @@
 - 🐛 I don’t write bugs (yet), but I find them very well.
 - ☕ I measure productivity in cups of coffee.
 - 🧠 I treat errors as plot twists in my coding story.
-
+- 🧷 I trust nothing unless I’ve poked it 10 different ways.
+  
 ---
 
 ## 📫 Let’s Connect
