@@ -8,7 +8,7 @@
 ## 🤓 Who Am I?
 
 🎓 A curious student of **BS Information Systems**, trying to figure out if semicolons or tabs cause more chaos.  
-🧪 Future **QA Engineer** (aka the person who *breaks* your app before the users do).  
+🧪 **QA Engineer** asprirant (aka the person who *breaks* your app before the users do).  
 🕵️‍♀️ Specializing in **black box testing**—because it’s more fun when you don’t know what’s inside, right?
 
 ---
@@ -18,7 +18,9 @@
 - Languages: `HTML` | `CSS` | `JavaScript`  
 - Tools: `GitHub` | `VS Code`   
 - Testing Brainpower: `Black Box Testing` | `Manual Testing` | `Bug Reporting`
-
+- 🌱 I’m currently learning: `Postman` | `JIRA`
+-
+-   **[e.g., JavaScript, Git, Unit Testing, etc.]**
 ---
 
 ## 🛠️ Currently Working On
@@ -39,8 +41,8 @@
 
 ## 📫 Let’s Connect
 
-- ✉️ [your.email@eva123@gmail.com]  
+- ✉️ [evaanggana415@gmail.com]  
 - 🐙 [github.com/dimawari]
 
 
-<p align="center">“Test early. Test often. Thank me later.” 🚀</p>
+<p align="center">“I test therefore, I break.” 🚀</p>
