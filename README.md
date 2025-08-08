@@ -45,7 +45,7 @@
 ## 📫 Let’s Connect
 
 - ✉️ [evaanggana415@gmail.com]  
-- 🐙 [github.com/dimawari]
+- 🐙 [https://github.com/dimawari]
 
 
 <p align="center">“I test therefore, I break.” 🚀</p>
