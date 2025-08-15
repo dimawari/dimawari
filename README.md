@@ -3,7 +3,7 @@
 </p>
 
 
-<h1 align="center">Hey there, I’m Eva! 👋</h1>
+<h1 align="center">Hey there, I’m Eva!</h1>
 <p align="center">📍 Bulacan </p>
 
 ---
@@ -35,10 +35,22 @@
 
 ## 📚 Fun Facts
 
-- 🐛 I don’t write bugs (yet), but I find them very well.
-- ☕ I measure productivity in cups of coffee.
-- 🧠 I treat errors as plot twists in my coding story.
-- 🧷 I trust nothing unless I’ve poked it 10 different ways.
+- 🐛 I don’t write bugs (yet), but I find them very well.  
+- ☕ I measure productivity in cups of coffee.  
+- 🧠 I treat errors as plot twists in my coding story.  
+- 🧷 I trust nothing unless I’ve poked it 10 different ways.  
+- 🎧 I’m a Swiftie and my favorite album is *reputation* (dark, glitchy, iconic — just like good bug hunts).  
+- 🍳 I enjoy cooking — just like how life cooks (and roasts) me.
+
+---
+
+## 📂 QA Input Sample
+
+I once did QA for a classmate’s project — tested features, poked at bugs, and left behind some constructive chaos. 🐞
+
+📄 [View my test spreadsheet on Google Sheets](https://docs.google.com/spreadsheets/d/10v0ha6Bz_b8PyYRAhvoODsVBKwMMzp-a-xshPHCuoUs/edit?usp=sharing)
+
+_(Includes manual test notes and feedback as a QA-in-training)_
   
 ---
 
@@ -46,6 +58,10 @@
 
 - ✉️ [evaanggana415@gmail.com]  
 - 🐙 [https://github.com/dimawari]
+- 💼 [LinkedIn](https://www.linkedin.com/in/yourusername/)](https://www.linkedin.com/in/evangeline-anggana/]
 
+<p align="center">₊‧°𐐪♡𐑂°‧₊
 
 <p align="center">“I test therefore, I break.” 🚀</p>
+
+
