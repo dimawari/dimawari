@@ -10,9 +10,9 @@
 
 ## 🤓 Who Am I?
 
-🎓 A curious student of **BS Information Systems**, trying to figure out if semicolons or tabs cause more chaos.  
-🧪 **QA Engineer** aspirant (aka the person who *breaks* your app before the users do).  
-🕵️‍♀️ Specializing in **black box testing**—because it’s more fun when you don’t know what’s inside, right?
+- A curious student of **BS Information Systems**, trying to figure out if semicolons or tabs cause more chaos. 🎓
+- **QA Engineer** aspirant (aka the person who *breaks* your app before the users do). 🧪
+- Specializing in **black box testing**—because it’s more fun when you don’t know what’s inside, right? 🕵️‍♀️
 
 ---
 
@@ -48,7 +48,7 @@
 
 I once did QA for a classmate’s project — tested features, poked at bugs, and left behind some constructive chaos. 🐞
 
-📄 [View my test spreadsheet on Google Sheets](https://docs.google.com/spreadsheets/d/10v0ha6Bz_b8PyYRAhvoODsVBKwMMzp-a-xshPHCuoUs/edit?usp=sharing)
+📄 [Web Applications and Development 2 - To Be Fixed](https://docs.google.com/spreadsheets/d/10v0ha6Bz_b8PyYRAhvoODsVBKwMMzp-a-xshPHCuoUs/edit?usp=sharing)
 
 _(Includes manual test notes and feedback as a QA-in-training)_
   
