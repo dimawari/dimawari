@@ -58,7 +58,7 @@ _(Includes manual test notes and feedback as a QA-in-training)_
 
 - ✉️ [evaanggana415@gmail.com]  
 - 🐙 [https://github.com/dimawari]
-- 💼 [https://www.linkedin.com/in/yourusername/)](https://www.linkedin.com/in/evangeline-anggana/]
+- 💼 [https://www.linkedin.com/in/evangeline-anggana/]
 
 
 
