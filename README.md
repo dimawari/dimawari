@@ -60,8 +60,11 @@ _(Includes manual test notes and feedback as a QA-in-training)_
 - 🐙 [https://github.com/dimawari]
 - 💼 [LinkedIn](https://www.linkedin.com/in/yourusername/)](https://www.linkedin.com/in/evangeline-anggana/]
 
+
+
 <p align="center">₊‧°𐐪♡𐑂°‧₊
 
-<p align="center">“I test therefore, I break.” 🚀</p>
+
+<p align="center">“I test therefore, I break.”</p>
 
 
