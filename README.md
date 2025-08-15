@@ -65,6 +65,6 @@ _(Includes manual test notes and feedback as a QA-in-training)_
 <p align="center">₊‧°𐐪♡𐑂°‧₊
 
 
-<p align="center">“I test therefore, I break.”</p>
+<p align="center">*“I test therefore, I break.”*</p>
 
 
