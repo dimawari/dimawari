@@ -2,70 +2,86 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00BFFF&center=true&vCenter=true&width=435&lines=Testing+Enthusiast;QA-in-Training;Breaking+for+the+Better" />
 </p>
 
-
-<h1 align="center">Hey there, I’m Eva!</h1>
-<p align="center">📍 Bulacan </p>
-
----
-
-## 🤓 Who Am I?
-
-- A curious student of **BS Information Systems**, trying to figure out if semicolons or tabs cause more chaos. 🎓
-- **QA Engineer** aspirant (aka the person who *breaks* your app before the users do). 🧪
-- Specializing in **black box testing**—because it’s more fun when you don’t know what’s inside, right? 🕵️‍♀️
+<h1 align="center">Hi, I'm Eva</h1>
+<p align="center">Bulacan, Philippines · QA-in-Training · Systematic Debugger</p>
 
 ---
 
-## 🧰 Toolbox (a.k.a My Survival Kit)
+## About Me
 
-- Languages: `HTML` | `CSS` | `JavaScript`  
-- Tools: `GitHub` | `VS Code`   
-- Testing Brainpower: `Black Box Testing` | `Manual Testing` | `Bug Reporting`
-- I’m currently learning: `Postman` | `JIRA`
+Currently taking up a **BS in Information Systems**, and learning how systems are built — and how to break them (strategically).
 
----
-
-## 🛠️ Currently Working On
-
-- Breaking things (intentionally) to make them better 💥  
-- Learning the art of writing **clear, polite bug reports**  
-- Exploring open-source testing playgrounds 🧩
+- QA aspirant who enjoys finding issues before users do  
+- Focused on **black box testing** and hands-on manual QA work  
+- Curious, detail-driven, and always looking for ways to improve processes  
+- Learning both the technical and human side of quality assurance
 
 ---
 
-## 📚 Fun Facts
+## Toolbox
 
-- 🐛 I don’t write bugs (yet), but I find them very well.  
-- ☕ I measure productivity in cups of coffee.  
-- 🧠 I treat errors as plot twists in my coding story.  
-- 🧷 I trust nothing unless I’ve poked it 10 different ways.  
-- 🎧 I’m a Swiftie and my favorite album is *reputation* (dark, glitchy, iconic — just like good bug hunts).  
-- 🍳 I enjoy cooking — just like how life cooks (and roasts) me.
+**Languages**  
+HTML · CSS · JavaScript
+
+**Tools & Platforms**  
+GitHub · VS Code · Google Sheets
+
+**Testing Skills**  
+Manual Testing · Black Box Testing · Bug Reporting
+
+**Currently Learning**  
+Postman · JIRA · Agile QA workflows
 
 ---
 
-## 📂 QA Input Sample
+## Current Projects
 
-I once did QA for a classmate’s project — tested features, poked at bugs, and left behind some constructive chaos. 🐞
+- Practicing structured testing on personal and academic projects  
+- Writing clear, concise, and respectful bug reports  
+- Exploring mock systems and open-source QA playgrounds  
+- Studying real-world QA workflows and team practices
 
-📄 [Web Applications and Development 2 - To Be Fixed](https://docs.google.com/spreadsheets/d/10v0ha6Bz_b8PyYRAhvoODsVBKwMMzp-a-xshPHCuoUs/edit?usp=sharing)
-
-_(Includes manual test notes and feedback as a QA-in-training)_
-  
 ---
 
-## 📫 Let’s Connect
+## Sample Work
 
-- ✉️ [evaanggana415@gmail.com]  
-- 🐙 [https://github.com/dimawari]
-- 💼 [https://www.linkedin.com/in/evangeline-anggana/]
+> *Constructive chaos for a classmate’s web app project.*  
+Manual testing documentation, test notes, and functional feedback included.
 
+[View QA Spreadsheet](https://docs.google.com/spreadsheets/d/10v0ha6Bz_b8PyYRAhvoODsVBKwMMzp-a-xshPHCuoUs/edit?usp=sharing)
 
+---
 
-<p align="center">₊‧°𐐪♡𐑂°‧₊
+## Things About Me (・∀・)
 
+- I don’t write bugs (yet), but I find them well  
+- Caffeine occasionally helps me debug life choices  
+- I treat errors as plot twists, not failures  
+- I don’t trust a feature until I’ve poked at it at least 10 different ways  
+- Outside of testing, I like music, cooking, and systems that don’t crash
 
-<p align="center"><i>“I test therefore, I break.”</i></p>
+---
 
+## Looking Ahead
 
+- Planning to pursue QA certifications (ISTQB Foundation Level)  
+- Open to internship or entry-level QA opportunities  
+- Long-term goal: become a QA Engineer focused on usability and user experience
 
+---
+
+## Contact
+
+**Email**  
+[evaanggana415@gmail.com](mailto:evaanggana415@gmail.com)
+
+**GitHub**  
+[github.com/dimawari](https://github.com/dimawari)
+
+**LinkedIn**  
+[linkedin.com/in/evangeline-anggana](https://www.linkedin.com/in/evangeline-anggana)
+
+---
+
+<p align="center">(⌐■_■)ﾉﾞ Thanks for reading.</p>
+<p align="center"><i>"I test, therefore I break — before users can."</i></p>
