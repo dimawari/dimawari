@@ -3,13 +3,13 @@
 </p>
 
 <h1 align="center">Hi, I'm Eva</h1>
-<p align="center">Bulacan, Philippines · QA-in-Training · Systematic Debugger</p>
+<p align="center">Bulacan, Philippines · QA-in-Training · Systems Explorer</p>
 
 ---
 
 ## About Me
 
-Currently taking up a **BS in Information Systems**, and learning how systems are built — and how to break them (strategically).
+Currently taking up  **Bachelor of Science in Information Systems**, and learning how systems are built — and how to break them (strategically).
 
 - QA aspirant who enjoys finding issues before users do  
 - Focused on **black box testing** and hands-on manual QA work  
@@ -24,13 +24,13 @@ Currently taking up a **BS in Information Systems**, and learning how systems ar
 HTML · CSS · JavaScript
 
 **Tools & Platforms**  
-GitHub · VS Code · Google Sheets
+GitHub · VS Code · Google Sheets · Figma
 
 **Testing Skills**  
 Manual Testing · Black Box Testing · Bug Reporting
 
 **Currently Learning**  
-Postman · JIRA · Agile QA workflows
+Postman · JIRA 
 
 ---
 
@@ -52,7 +52,7 @@ Manual testing documentation, test notes, and functional feedback included.
 
 ---
 
-## Things About Me (・∀・)
+## Things About Me
 
 - I don’t write bugs (yet), but I find them well  
 - Caffeine occasionally helps me debug life choices  
@@ -64,7 +64,6 @@ Manual testing documentation, test notes, and functional feedback included.
 
 ## Looking Ahead
 
-- Planning to pursue QA certifications (ISTQB Foundation Level)  
 - Open to internship or entry-level QA opportunities  
 - Long-term goal: become a QA Engineer focused on usability and user experience
 
@@ -83,5 +82,5 @@ Manual testing documentation, test notes, and functional feedback included.
 
 ---
 
-<p align="center">(⌐■_■)ﾉﾞ Thanks for reading.</p>
-<p align="center"><i>"I test, therefore I break — before users can."</i></p>
+<p align="center">₊‧°𐐪♡𐑂°‧₊</p>
+<p align="center"><i>"I test, therefore I break."</i></p>
