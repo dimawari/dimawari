@@ -47,8 +47,8 @@ Postman · JIRA
 
 > Manual testing documentation, test notes, and functional feedback included.
 
-[WebAppDev 2](https://docs.google.com/spreadsheets/d/10v0ha6Bz_b8PyYRAhvoODsVBKwMMzp-a-xshPHCuoUs/edit?usp=sharing)
-[AppDev 1](https://docs.google.com/document/d/1qJvhvVOgoqM6CGPDfjKgsELFYrcKJ4uW6LEXwc-g9OE/edit?tab=t.0)
+- [WebAppDev 2](https://docs.google.com/spreadsheets/d/10v0ha6Bz_b8PyYRAhvoODsVBKwMMzp-a-xshPHCuoUs/edit?usp=sharing)
+- [AppDev 1](https://docs.google.com/document/d/1qJvhvVOgoqM6CGPDfjKgsELFYrcKJ4uW6LEXwc-g9OE/edit?tab=t.0)
 
 ---
 
